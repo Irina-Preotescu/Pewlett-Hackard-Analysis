@@ -4,5 +4,5 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 
 
 This new assignment consists of two technical analysis deliverables and a written report. You will submit the following:
-*Deliverable 1: The Number of Retiring Employees by Title
-*Deliverable 2: The Employees Eligible for the Mentorship Program
+* Deliverable 1: The Number of Retiring Employees by Title
+* Deliverable 2: The Employees Eligible for the Mentorship Program
